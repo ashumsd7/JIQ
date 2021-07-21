@@ -3,6 +3,37 @@
 JIQ stands for JavaScript interview questions. Here I cover some topics and I update some question after searching from some sources that can help us to prepare for the war named JavaScript Interview. Happy Leraning
 
 ----------------------------------------------------
+## 📌Day 4
+### 📝Topics: Functions Function expressions Arrow functions, the basics JavaScript specials
+
+
+#### Q31: difference between functions and methods?
+#### Q32: What is variable shadowing?
+#### Q33: what will be the value if I stroing returned value from a function and that function is has only return;  
+#### Q34: What are callback functions?
+#### Q35: What is main difference function declaration and function expressions?
+#### Q36: Write an arrow function expect two values and return sum. and try to write less statement? 
+#### Q37: 
+#### Q38:
+#### Q39:
+#### Q40: 
+
+## 📌Day 3
+### 📝Topics: Basic operators, maths Comparisons Conditional branching: if, '?'Logical operatorsNullish coalescing operator '??'Loops: while and forThe "switch" statement
+
+#### Q21: NaN == NaN
+#### Q22: undefined == null
+
+#### Q23: What is the way to convert a non boolean value to a boolean value?
+#### Q24: || OR operator and ?? operator Nullish act as almost same, what is the main difference?
+#### Q25: Main difference between while and do while?
+#### Q26: What will happe If I place default; of switch statement in between cases not at the end?
+#### Q27: 
+#### Q28:
+#### Q29:
+#### Q30: 
+
+----------------------------------------------------
 ## 📌Day 2
 ### 📝Topics: Hello World, Code structure, strict mode, varibales, alert prompt, type conversion
 #### Q11: What will be the output?
