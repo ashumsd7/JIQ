@@ -2,6 +2,24 @@
 ## 🎯My Interview Prepration🎯
 JIQ stands for JavaScript interview questions. Here I cover some topics and I update some question after searching from some sources that can help us to prepare for the war named JavaScript Interview. Happy Leraning
 
+
+
+----------------------------------------------------
+## 📌Day 5
+### 📝Topics: Debugging in the browser Coding Style Comments Ninja code Automated testing with Mocha Polyfills and transpilers
+
+
+
+#### Q41: What is Debugging?
+#### Q42: Have you heard about Prettier ? What is it? 
+#### Q43: What are Transpilers? Tell me in brief?
+#### Q44: Tell me name of any Transpilers?
+#### Q45: Difference between Polyfills and Transpilers?
+#### Q46:
+#### Q47: 
+#### Q48:
+#### Q49:
+#### Q50: 
 ----------------------------------------------------
 ## 📌Day 4
 ### 📝Topics: Functions Function expressions Arrow functions, the basics JavaScript specials
