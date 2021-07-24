@@ -3,7 +3,40 @@
 JIQ stands for JavaScript interview questions. Here I cover some topics and I update some question after searching from some sources that can help us to prepare for the war named JavaScript Interview. Happy Leraning
 
 
+----------------------------------------------------
+## 📌Day 6
+### 📝Topics:Objects Object references and copying Garbage collection Object methods, "this"
 
+
+
+
+#### Q51: 
+    let  person = {
+    'full name' :  "Twitter Kumar",
+             age: 20,
+        }
+    // totally valid syntax
+     but now, how can we access full name propertyRed question mark ornament
+      console.log(person.full name)   //gives error 
+#### Q52: 
+let obj={
+
+ name:"ashu",
+
+ age:20,
+return :0
+}
+
+As we have used return keyword as key of Object obj  which is reserved by javascript 
+any error?
+#### Q53: What is meaning of objects are stored and copied “by reference"?
+#### Q54: What is use of Object.assign?
+#### Q55: We are changing the property of a constant Object! what will be the output?  and why? if error ? tell the reason.
+#### Q56: is it possible to prevent Garbage collector to collect unreachable code in javascript? if yes How?
+#### Q57: 
+#### Q58:
+#### Q59:
+#### Q60: 
 ----------------------------------------------------
 ## 📌Day 5
 ### 📝Topics: Debugging in the browser Coding Style Comments Ninja code Automated testing with Mocha Polyfills and transpilers
