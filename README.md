@@ -19,13 +19,11 @@ JIQ stands for JavaScript interview questions. Here I cover some topics and I up
      but now, how can we access full name propertyRed question mark ornament
       console.log(person.full name)   //gives error 
 #### Q52: 
-let obj={
-
- name:"ashu",
-
- age:20,
-return :0
-}
+    let obj={
+    name:"ashu",
+     age:20,
+    return :0
+    }
 
 As we have used return keyword as key of Object obj  which is reserved by javascript 
 any error?
