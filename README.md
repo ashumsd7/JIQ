@@ -2,6 +2,23 @@
 ## 🎯My Interview Prepration🎯
 JIQ stands for JavaScript interview questions. Here I cover some topics and I update some question after searching from some sources that can help us to prepare for the war named JavaScript Interview. Happy Leraning
 
+## 📌Day 8
+### 📝Topics:Methods of primitives Numbers Strings Arrays Array methods
+
+
+#### Q71: How mnany primitive data types are in javascript. Name ?
+#### Q73: if strings are primitive types in javascript not an object, then as we know there are many methods available for strings , how that possible? are strings internally objects?
+#### Q74: typeof new Number(0) ?  
+    a) boolean b) number   c) object
+#### Q75: What are wrapper objects in javascript?
+#### Q76: prove that primitive types have some methods to execute but they are not objects i javascript!
+#### Q77: Output of alert(parseInt("abc"));  ?
+    a) ASCII value of abc  ) error   c)NaN    d)parseInt("abc")  will show in alert
+#### Q78:How will u store multiple lines string in a string variable?
+#### Q79: I want to show string in multiple lines but I also want to use " double quotes to store a string. Is it possible?
+#### Q80: what is meaning of "Strings are immutable" in javascript?
+
+
 ## 📌Day 7
 ### 📝Topics:Constructor, operator "new" Optional chaining '?.' Symbol type Object to primitive conversion
 
