@@ -7,14 +7,15 @@ JIQ stands for JavaScript interview questions. Here I cover some topics and I up
 
 #### Q61: What is main advantage of using Object Constructors in javaScript?
 #### Q62: Generally Constructor function doesn't has return statement. What will happen If we place return statement inside Constructor?
-#### Q63: 
-#### Q64:
+#### Q63: WHat is Object chaining?
+#### Q64: Can we user a boolean as a key of an Object?
 #### Q65: 
 #### Q66: 
 #### Q67: 
 #### Q68:
 #### Q69:
 #### Q70: 
+----------------------------------------------------
 ----------------------------------------------------
 ## 📌Day 6
 ### 📝Topics:Objects Object references and copying Garbage collection Object methods, "this"
