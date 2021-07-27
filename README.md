@@ -2,7 +2,19 @@
 ## 🎯My Interview Prepration🎯
 JIQ stands for JavaScript interview questions. Here I cover some topics and I update some question after searching from some sources that can help us to prepare for the war named JavaScript Interview. Happy Leraning
 
+## 📌Day 7
+### 📝Topics:Constructor, operator "new" Optional chaining '?.' Symbol type Object to primitive conversion
 
+#### Q61: What is main advantage of using Object Constructors in javaScript?
+#### Q62: Generally Constructor function doesn't has return statement. What will happen If we place return statement inside Constructor?
+#### Q63: 
+#### Q64:
+#### Q65: 
+#### Q66: 
+#### Q67: 
+#### Q68:
+#### Q69:
+#### Q70: 
 ----------------------------------------------------
 ## 📌Day 6
 ### 📝Topics:Objects Object references and copying Garbage collection Object methods, "this"
