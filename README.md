@@ -2,6 +2,32 @@
 ## 🎯My Interview Prepration🎯
 JIQ stands for JavaScript interview questions. Here I cover some topics and I update some question after searching from some sources that can help us to prepare for the war named JavaScript Interview. Happy Leraning
 
+## 📌Day 9A
+### 📝Topics: Arrays Array methods   IterablesMap and Set WeakMap and WeakSet
+
+#### Q90A: revserse this string 'javascript' 
+#### Q90B: When sort() fails in order to sort array elements?
+#### Q90C: Find average of all elements using best array method?
+#### Q90D: Can you name of some Iterables?
+#### Q90E: What is use of Symbol.itearor() ?
+#### Q90F: What will be the output?
+    let map = new Map();
+    console.log(map.get('village'));
+#### Q90G: does Map allows duplicate keys?
+    1)yes    2) no    
+#### Q90H:does Set allows duplicate keys?
+    1)yes    2) no    
+#### Q90I:What will be the output? 
+    let set = new Set();
+    set.add('ashu')
+    set.add("loves");
+    set.add('ashu')
+
+    console.log(set.size);
+
+console.log(set.size);
+#### Q90J: Can you give me any use case of WeakSet and WeakMap?
+
 ## 📌Day 9
 ### 📝Topics: Arrays Array methods   IterablesMap and Set WeakMap and WeakSet
 
