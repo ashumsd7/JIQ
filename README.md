@@ -2,6 +2,34 @@
 ## 🎯My Interview Prepration🎯
 JIQ stands for JavaScript interview questions. Here I cover some topics and I update some question after searching from some sources that can help us to prepare for the war named JavaScript Interview. Happy Leraning
 
+## 📌Day 9
+### 📝Topics: Arrays Array methods   IterablesMap and Set WeakMap and WeakSet
+
+
+
+
+
+#### Q81: Which method works more push() or unshift(); which is more fast?
+#### Q82: What are array like objects? Any examples?
+#### Q83: what will happed if you do!
+    let arr = [1, 2, 3, 4, 5];
+    arr.length=2;
+    console.log(arr);
+#### Q84: What is difference between for in and for of loop?
+#### Q85: What will be the output of 
+    let arr =[1,2,3,4,5,6];
+    arr.splice(0)
+    console.log(arr)
+#### Q86: What fill find() method return if element is not found?
+#### Q87: Can you specify when to use filter() and find()?
+#### Q88: When will you use slice method?
+#### Q89:Which array method is called all-rouder method, which does deletion, insertion both.
+#### Q90: Just tell me use of spilit() and join() !
+#### Q90A: revserse this string 'javascript' 
+#### Q90B: When sort() fails in order to sort array elements?
+#### Q90C: Find average of all elements using best array method?
+#### Q90D:
+
 ## 📌Day 8
 ### 📝Topics:Methods of primitives Numbers Strings Arrays Array methods
 
