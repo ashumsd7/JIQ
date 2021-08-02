@@ -2,6 +2,19 @@
 ## 🎯My Interview Prepration🎯
 JIQ stands for JavaScript interview questions. Here I cover some topics and I update some question after searching from some sources that can help us to prepare for the war named JavaScript Interview. Happy Leraning
 
+## 📌Day 10
+### 📝Topics: Object.keys, values, entries Destructuring assignment Date and time JSON methods, toJSON
+
+
+#### Q91: I want to use an iterable method of an array like map/reduce with an Object . How is it possible?
+#### Q92: What do you mean my Array Destructuring?
+#### Q93: what will be the output?
+        let [user1, user2, , user3] = ['sam', 'ram', 'dam', 'cam']
+        console.log(user1,user2,user3);
+#### Q94:Swap two values using Destructuring!
+#### Q95: How will you set default values in Destructuring?
+#### Q96: Calculate date 5 days before of today.
+
 ## 📌Day 9A
 ### 📝Topics: Arrays Array methods   IterablesMap and Set WeakMap and WeakSet
 
