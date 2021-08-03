@@ -14,7 +14,10 @@ JIQ stands for JavaScript interview questions. Here I cover some topics and I up
 #### Q94:Swap two values using Destructuring!
 #### Q95: How will you set default values in Destructuring?
 #### Q96: Calculate date 5 days before of today.
-
+#### Q97:Why JSON is used? tell me full form of it?
+#### Q98: what are some restrictions on JSON?
+#### Q99: what are receier in JSON.parse() method.
+#### Q100: Do you know about JSON5?
 ## 📌Day 9A
 ### 📝Topics: Arrays Array methods   IterablesMap and Set WeakMap and WeakSet
 
