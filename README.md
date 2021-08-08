@@ -2,6 +2,29 @@
 ## 🎯My Interview Prepration🎯
 JIQ stands for JavaScript interview questions. Here I cover some topics and I update some question after searching from some sources that can help us to prepare for the war named JavaScript Interview. Happy Leraning
 
+## 📌Day 11
+### 📝Topics:Recursion and stackRest parameters and spread syntax Variable scope, closure
+
+
+#### Q111: What is recursion?
+#### Q112: What is meaning of execution context or call stack?
+#### Q113: Why do we use Object.assign?
+#### Q114: How many ways you can copy from one Object to another?
+#### Q115: How many ways you can copy from one array to another?
+#### Q116: What are closures?
+#### Q117:Give me an example of closure? or just explain closure with this example
+    function x(){
+        var a = 7;
+        function y() {
+        console.log(a);
+        }
+     y()
+    }
+    x();
+#### Q118:Tell me some real usage of closures? 
+#### Q119: What is lexical environment?
+#### Q120: Can you show me how closures are created in 
+
 ## 📌Day 10
 ### 📝Topics: Object.keys, values, entries Destructuring assignment Date and time JSON methods, toJSON
 
